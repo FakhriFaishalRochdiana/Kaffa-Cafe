@@ -34,13 +34,13 @@ public class MenuActivity extends AppCompatActivity {
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
     }
 
-    public  void masukanData(){
-        com.example.KaffaCafe.DB database = new com.example.KaffaCafe.DB(getApplicationContext());
-        ArrayList<com.example.KaffaCafe.Food> data = com.example.KaffaCafe.ListFood.getData(getApplicationContext());
-
-        for (com.example.KaffaCafe.Food food: data) {
-            database.tambahData(food);
-        }
+//    public  void masukanData(){
+//        com.example.KaffaCafe.DB database = new com.example.KaffaCafe.DB(getApplicationContext());
+//        ArrayList<com.example.KaffaCafe.Food> data = com.example.KaffaCafe.ListFood.getData(getApplicationContext());
+//
+//        for (com.example.KaffaCafe.Food food: data) {
+//            database.tambahData(food);
+//        }
 
     }
 
