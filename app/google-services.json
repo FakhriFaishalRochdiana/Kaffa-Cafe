@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605505932075",
+    "project_id": "kaffacafe-1c70f",
+    "storage_bucket": "kaffacafe-1c70f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605505932075:android:237b43253f2168d4b5536e",
+        "android_client_info": {
+          "package_name": "com.example.KaffaCafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605505932075-2veo5i9vao8n9f0r27e5bf6h75ssmgh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjC0gxn9MnWUDT32alDDND5Z7vwOG1Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605505932075-2veo5i9vao8n9f0r27e5bf6h75ssmgh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
